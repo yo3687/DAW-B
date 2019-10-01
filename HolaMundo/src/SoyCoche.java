@@ -1,7 +1,7 @@
 public class SoyCoche {
 
 	public SoyCoche() {
-		System.out.println("Soy un coche");
+		System.out.println("Soy un coche, BRUMMMM BRUMMM");
 		
 	}
 }
